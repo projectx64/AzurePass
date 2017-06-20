@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="12dp"
+    android:layout_marginTop="12dp"
+    android:minWidth="25px"
+    android:minHeight="25px">
+    <TextView
+        android:text="Osmar Pérez"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView1" />
+    <TextView
+        android:text="osmar613@gmail.com"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="48dp"
+        android:weightSum="1"
+        android:id="@+id/linearLayout1"
+        android:layout_marginBottom="0.0dp"
+        android:layout_marginTop="48dp">
+        <TextView
+            android:text="País"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:gravity="left"
+            android:id="@+id/textViewNombre" />
+        <TextView
+            android:text="--"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:gravity="left"
+            android:id="@+id/textViewResultNombre" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="48dp"
+        android:weightSum="1"
+        android:id="@+id/linearLayout2"
+        android:layout_marginBottom="0.0dp"
+        android:layout_marginTop="0.0dp">
+        <TextView
+            android:text="Capital"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:gravity="left"
+            android:id="@+id/textViewCapital" />
+        <TextView
+            android:text="--"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:gravity="left"
+            android:id="@+id/textViewResultCapital" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="48dp"
+        android:weightSum="1"
+        android:id="@+id/linearLayout3"
+        android:layout_marginBottom="0.0dp"
+        android:layout_marginTop="0.0dp">
+        <TextView
+            android:text="Continente"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:gravity="left"
+            android:id="@+id/textViewContinente" />
+        <TextView
+            android:text="--"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:gravity="left"
+            android:id="@+id/textViewResultContinente" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="48dp"
+        android:weightSum="1"
+        android:id="@+id/linearLayout4"
+        android:layout_marginBottom="0.0dp"
+        android:layout_marginTop="0.0dp">
+        <TextView
+            android:text="Extensión"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:gravity="left"
+            android:id="@+id/textViewExtension" />
+        <TextView
+            android:text="--"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:gravity="left"
+            android:id="@+id/textViewResultExtension" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="48dp"
+        android:weightSum="1"
+        android:id="@+id/linearLayout5"
+        android:layout_marginBottom="0.0dp"
+        android:layout_marginTop="0.0dp">
+        <TextView
+            android:text="Idiomas"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:gravity="left"
+            android:id="@+id/textViewIdiomas" />
+        <TextView
+            android:text="--"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:gravity="left"
+            android:id="@+id/textViewResultIdiomas" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="48dp"
+        android:weightSum="1"
+        android:id="@+id/linearLayout6"
+        android:layout_marginBottom="0.0dp"
+        android:layout_marginTop="0.0dp">
+        <TextView
+            android:text="Moneda"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:gravity="left"
+            android:id="@+id/textViewMoneda" />
+        <TextView
+            android:text="--"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:gravity="left"
+            android:id="@+id/textViewResultMoneda" />
+    </LinearLayout>
+</LinearLayout>

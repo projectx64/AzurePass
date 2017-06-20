@@ -1,0 +1,80 @@
+c:\users\operezl\documents\visual studio 2015\Projects\AzurePass\AzurePass\bin\Debug\AzurePass.dll
+c:\users\operezl\documents\visual studio 2015\Projects\AzurePass\AzurePass\bin\Debug\AzurePass.pdb
+c:\users\operezl\documents\visual studio 2015\Projects\AzurePass\AzurePass\bin\Debug\AzurePass.AzurePass.apk
+c:\users\operezl\documents\visual studio 2015\Projects\AzurePass\AzurePass\bin\Debug\AzurePass.AzurePass-Signed.apk
+c:\users\operezl\documents\visual studio 2015\Projects\AzurePass\AzurePass\obj\Debug\AzurePass.csprojResolveAssemblyReference.cache
+c:\users\operezl\documents\visual studio 2015\Projects\AzurePass\AzurePass\obj\Debug\AzurePass.dll
+c:\users\operezl\documents\visual studio 2015\Projects\AzurePass\AzurePass\obj\Debug\AzurePass.pdb
+c:\users\operezl\documents\visual studio 2015\Projects\AzurePass\AzurePass\obj\Debug\android\bin\AzurePass.AzurePass.apk
+c:\users\operezl\documents\visual studio 2015\Projects\AzurePass\AzurePass\obj\Debug\res\layout\main.xml
+c:\users\operezl\documents\visual studio 2015\Projects\AzurePass\AzurePass\obj\Debug\res\values\strings.xml
+c:\users\operezl\documents\visual studio 2015\Projects\AzurePass\AzurePass\obj\Debug\res\drawable\icon.png
+c:\users\operezl\documents\visual studio 2015\Projects\AzurePass\AzurePass\obj\Debug\R.cs.flag
+c:\users\operezl\documents\visual studio 2015\Projects\AzurePass\AzurePass\obj\Debug\uploadflags.txt
+c:\users\operezl\documents\visual studio 2015\Projects\AzurePass\AzurePass\bin\Debug\AzurePass.dll.mdb
+c:\users\operezl\documents\visual studio 2015\Projects\AzurePass\AzurePass\obj\Debug\android\assets\AzurePass.dll.mdb
+c:\users\operezl\documents\visual studio 2015\Projects\AzurePass\AzurePass\bin\Debug\Plugin.CurrentActivity.dll
+c:\users\operezl\documents\visual studio 2015\Projects\AzurePass\AzurePass\bin\Debug\Plugin.Geolocator.Abstractions.dll
+c:\users\operezl\documents\visual studio 2015\Projects\AzurePass\AzurePass\bin\Debug\Plugin.Geolocator.dll
+c:\users\operezl\documents\visual studio 2015\Projects\AzurePass\AzurePass\bin\Debug\Plugin.Permissions.Abstractions.dll
+c:\users\operezl\documents\visual studio 2015\Projects\AzurePass\AzurePass\bin\Debug\Plugin.Permissions.dll
+c:\users\operezl\documents\visual studio 2015\Projects\AzurePass\AzurePass\bin\Debug\Xamarin.Android.Support.v4.dll
+c:\users\operezl\documents\visual studio 2015\Projects\AzurePass\AzurePass\bin\Debug\Plugin.CurrentActivity.xml
+c:\users\operezl\documents\visual studio 2015\Projects\AzurePass\AzurePass\bin\Debug\Plugin.Geolocator.pdb
+c:\users\operezl\documents\visual studio 2015\Projects\AzurePass\AzurePass\bin\Debug\Plugin.Geolocator.xml
+c:\users\operezl\documents\visual studio 2015\Projects\AzurePass\AzurePass\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+c:\users\operezl\documents\visual studio 2015\Projects\AzurePass\AzurePass\bin\Debug\Plugin.Geolocator.Abstractions.xml
+c:\users\operezl\documents\visual studio 2015\Projects\AzurePass\AzurePass\bin\Debug\Plugin.Permissions.pdb
+c:\users\operezl\documents\visual studio 2015\Projects\AzurePass\AzurePass\bin\Debug\Plugin.Permissions.xml
+c:\users\operezl\documents\visual studio 2015\Projects\AzurePass\AzurePass\bin\Debug\Plugin.Permissions.Abstractions.pdb
+c:\users\operezl\documents\visual studio 2015\Projects\AzurePass\AzurePass\bin\Debug\Plugin.Permissions.Abstractions.xml
+c:\users\operezl\documents\visual studio 2015\Projects\AzurePass\AzurePass\bin\Debug\Plugin.Geolocator.dll.mdb
+c:\users\operezl\documents\visual studio 2015\Projects\AzurePass\AzurePass\bin\Debug\Plugin.Geolocator.Abstractions.dll.mdb
+c:\users\operezl\documents\visual studio 2015\Projects\AzurePass\AzurePass\bin\Debug\Plugin.Permissions.dll.mdb
+c:\users\operezl\documents\visual studio 2015\Projects\AzurePass\AzurePass\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+c:\users\operezl\documents\visual studio 2015\Projects\AzurePass\AzurePass\obj\Debug\android\assets\Plugin.Geolocator.Abstractions.dll.mdb
+c:\users\operezl\documents\visual studio 2015\Projects\AzurePass\AzurePass\obj\Debug\android\assets\Plugin.Geolocator.dll.mdb
+c:\users\operezl\documents\visual studio 2015\Projects\AzurePass\AzurePass\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+c:\users\operezl\documents\visual studio 2015\Projects\AzurePass\AzurePass\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+c:\users\operezl\documents\visual studio 2015\Projects\AzurePass\AzurePass\bin\Debug\Newtonsoft.Json.dll
+c:\users\operezl\documents\visual studio 2015\Projects\AzurePass\AzurePass\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Public\Documents\AzurePass\AzurePass\AzurePass\bin\Debug\AzurePass.dll
+C:\Users\Public\Documents\AzurePass\AzurePass\AzurePass\bin\Debug\AzurePass.pdb
+C:\Users\Public\Documents\AzurePass\AzurePass\AzurePass\bin\Debug\AzurePass.AzurePass.apk
+C:\Users\Public\Documents\AzurePass\AzurePass\AzurePass\bin\Debug\AzurePass.AzurePass-Signed.apk
+C:\Users\Public\Documents\AzurePass\AzurePass\AzurePass\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Public\Documents\AzurePass\AzurePass\AzurePass\bin\Debug\Plugin.CurrentActivity.dll
+C:\Users\Public\Documents\AzurePass\AzurePass\AzurePass\bin\Debug\Plugin.Geolocator.Abstractions.dll
+C:\Users\Public\Documents\AzurePass\AzurePass\AzurePass\bin\Debug\Plugin.Geolocator.dll
+C:\Users\Public\Documents\AzurePass\AzurePass\AzurePass\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\Public\Documents\AzurePass\AzurePass\AzurePass\bin\Debug\Plugin.Permissions.dll
+C:\Users\Public\Documents\AzurePass\AzurePass\AzurePass\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Public\Documents\AzurePass\AzurePass\AzurePass\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Public\Documents\AzurePass\AzurePass\AzurePass\bin\Debug\Plugin.CurrentActivity.xml
+C:\Users\Public\Documents\AzurePass\AzurePass\AzurePass\bin\Debug\Plugin.Geolocator.pdb
+C:\Users\Public\Documents\AzurePass\AzurePass\AzurePass\bin\Debug\Plugin.Geolocator.xml
+C:\Users\Public\Documents\AzurePass\AzurePass\AzurePass\bin\Debug\Plugin.Geolocator.dll.mdb
+C:\Users\Public\Documents\AzurePass\AzurePass\AzurePass\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\Users\Public\Documents\AzurePass\AzurePass\AzurePass\bin\Debug\Plugin.Geolocator.Abstractions.xml
+C:\Users\Public\Documents\AzurePass\AzurePass\AzurePass\bin\Debug\Plugin.Geolocator.Abstractions.dll.mdb
+C:\Users\Public\Documents\AzurePass\AzurePass\AzurePass\bin\Debug\Plugin.Permissions.pdb
+C:\Users\Public\Documents\AzurePass\AzurePass\AzurePass\bin\Debug\Plugin.Permissions.xml
+C:\Users\Public\Documents\AzurePass\AzurePass\AzurePass\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\Public\Documents\AzurePass\AzurePass\AzurePass\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\Public\Documents\AzurePass\AzurePass\AzurePass\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\Public\Documents\AzurePass\AzurePass\AzurePass\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\Public\Documents\AzurePass\AzurePass\AzurePass\obj\Debug\AzurePass.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\AzurePass\AzurePass\AzurePass\obj\Debug\AzurePass.dll
+C:\Users\Public\Documents\AzurePass\AzurePass\AzurePass\obj\Debug\AzurePass.pdb
+C:\Users\Public\Documents\AzurePass\AzurePass\AzurePass\obj\Debug\android\bin\AzurePass.AzurePass.apk
+C:\Users\Public\Documents\AzurePass\AzurePass\AzurePass\obj\Debug\res\layout\main.xml
+C:\Users\Public\Documents\AzurePass\AzurePass\AzurePass\obj\Debug\res\values\strings.xml
+C:\Users\Public\Documents\AzurePass\AzurePass\AzurePass\obj\Debug\res\drawable\icon.png
+C:\Users\Public\Documents\AzurePass\AzurePass\AzurePass\obj\Debug\R.cs.flag
+C:\Users\Public\Documents\AzurePass\AzurePass\AzurePass\obj\Debug\uploadflags.txt
+C:\Users\Public\Documents\AzurePass\AzurePass\AzurePass\bin\Debug\AzurePass.dll.mdb
+C:\Users\Public\Documents\AzurePass\AzurePass\AzurePass\obj\Debug\android\assets\AzurePass.dll.mdb
+C:\Users\Public\Documents\AzurePass\AzurePass\AzurePass\obj\Debug\android\assets\Plugin.Geolocator.Abstractions.dll.mdb
+C:\Users\Public\Documents\AzurePass\AzurePass\AzurePass\obj\Debug\android\assets\Plugin.Geolocator.dll.mdb
+C:\Users\Public\Documents\AzurePass\AzurePass\AzurePass\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\Public\Documents\AzurePass\AzurePass\AzurePass\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
